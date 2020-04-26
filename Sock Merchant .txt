@@ -58,7 +58,6 @@ static int oldNumber ;
 
         bufferedWriter.write(String.valueOf(result));
         bufferedWriter.newLine();
-
         bufferedWriter.close();
 
         scanner.close();
